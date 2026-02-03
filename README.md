@@ -1,25 +1,6 @@
 
 
-<h1 align="center">Switcharoo</h1>
-<p align="center">
-  <strong>Switch-Accessible Tablet Games for Children with Motor Disabilities</strong>
-</p>
 
-<p align="center">
-  <a href="https://www.resna.org/Events/2025-RESNA-Conference/2025-Student-Design-Challenge-Winners">
-    <img src="https://img.shields.io/badge/🥈_RESNA_2025-2nd_Place-gold?style=for-the-badge" alt="RESNA 2025 2nd Place"/>
-  </a>
-  <img src="https://img.shields.io/badge/Expo-52-blue?style=for-the-badge&logo=expo" alt="Expo 52"/>
-  <img src="https://img.shields.io/badge/React_Native-0.76-61DAFB?style=for-the-badge&logo=react" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Platform-iOS_|_Android_|_Web-lightgrey?style=for-the-badge" alt="Platform"/>
-</p>
-
-<p align="center">
-  <a href="#-getting-started">Getting Started</a> •
-  <a href="#-games">Games</a> •
-  <a href="#-features">Features</a> •
-  <a href="assets/Switcharoo-Research-Poster-32x40.pdf">Research Poster</a>
-</p>
 
 ---
 
