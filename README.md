@@ -37,7 +37,7 @@ Play is critical for child development but most games aren't designed for childr
       <img src="assets/stacking-blocks.png" alt="Stacking Blocks" width="200"/><br/>
       <strong>Stacking Blocks</strong><br/>
       <em>Classification</em><br/>
-      <sub>Sort shapes with high-contrast mode support /sub>
+      <sub>Sort shapes with high-contrast mode support </sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/sorting-game.png" alt="Sorting Game" width="200"/><br/>
