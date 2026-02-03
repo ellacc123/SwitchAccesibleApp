@@ -40,7 +40,7 @@ Play is critical for child development but most games aren't designed for childr
       <sub>Physics-based stacking with haptic feedback</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/sorting-game" alt="Sorting Game" width="200"/><br/>
+      <img src="assets/sorting-game.png" alt="Sorting Game" width="200"/><br/>
       <strong>Sorting Game</strong><br/>
       <em>Classification</em><br/>
       <sub>Sort shapes with high-contrast mode support</sub>
