@@ -15,7 +15,7 @@
 
 ---
 
-## 💡 The Problem
+## The Problem
 
 Play is critical for child development but most games aren't designed for children have motor disabilities. These kids deserve fun, engaging experiences too.
 
@@ -23,7 +23,7 @@ Switcharoo is an educational game library built from the ground up for switch ac
 
 ---
 
-## 🎮 Games
+## Games
 
 <table>
   <tr>
@@ -52,7 +52,7 @@ Coming soon: Treasure Hunt, Crossy Roads, Music Play
 
 ---
 
-## ✨ Features
+## Features
 
 **Accessibility**
 - External switch support via `react-native-keyevent`
@@ -70,7 +70,7 @@ Coming soon: Treasure Hunt, Crossy Roads, Music Play
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 # Clone the repo
@@ -88,7 +88,7 @@ Then press `i` for iOS, `a` for Android, or `w` for web.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |----------|-------------|
@@ -100,7 +100,7 @@ Then press `i` for iOS, `a` for Android, or `w` for web.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 app/
@@ -123,7 +123,7 @@ assets/
 
 ---
 
-## 👥 Team
+## Team
 
 Built by students at the University of Washington:
 
