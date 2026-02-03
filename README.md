@@ -36,14 +36,14 @@ Play is critical for child development but most games aren't designed for childr
     <td align="center" width="33%">
       <img src="assets/stacking-blocks.png" alt="Stacking Blocks" width="200"/><br/>
       <strong>Stacking Blocks</strong><br/>
-      <em>Timing</em><br/>
-      <sub>Physics-based stacking with haptic feedback</sub>
+      <em>Classification</em><br/>
+      <sub>Sort shapes with high-contrast mode support /sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/sorting-game.png" alt="Sorting Game" width="200"/><br/>
       <strong>Sorting Game</strong><br/>
-      <em>Classification</em><br/>
-      <sub>Sort shapes with high-contrast mode support</sub>
+      <em>Timing</em><br/>
+      <sub>Physics-based stacking with haptic feedback</sub>
     </td>
   </tr>
 </table>
