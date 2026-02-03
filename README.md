@@ -28,11 +28,11 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="assets/switchgrouppic.png" alt="Switcharoo team at RESNA 2025" width="100%"/>
+      <img src="switchgrouppic.png" alt="Switcharoo team at RESNA 2025" width="100%"/>
     </td>
     <td width="50%">
-      <h3>🥈 2nd Place — 2025 RESNA Student Design Challenge</h3>
-      <p>Switcharoo was recognized at the <a href="https://www.resna.org/Events/2025-RESNA-Conference/2025-Student-Design-Challenge-Winners">2025 RESNA Conference</a> for creating accessible, engaging play experiences for children with diverse abilities.</p>
+      <h3>🥈 2nd Place at 2025 RESNA Student Design Challenge</h3>
+      <p>Switcharoo was recognized at the <a href="https://www.resna.org/Events/2025-RESNA-Conference/2025-Student-Design-Challenge-Winners">2025 RESNA Conference</a> for innovative assistive technology designs that help people with disabilities function more independently</p>
       <p><strong>→</strong> <a href="assets/Switcharoo-Research-Poster-32x40.pdf">View our research poster</a></p>
     </td>
   </tr>
