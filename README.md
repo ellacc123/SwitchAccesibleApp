@@ -19,7 +19,7 @@
 
 Play is critical for child development but most games aren't designed for children have motor disabilities. These kids deserve fun, engaging experiences too.
 
-**Switcharoo** is an educational game library built from the ground up for switch accessibility, developed through ethnographic research at local schools and interviews with educators and therapists.
+**Switcharoo** is an educational game library built from the ground up for switch accessibility. We conducted ethnographic research at local schools and interviews with educators, then translated those insights into a cross-platform React Native app featuring physics-based gameplay, haptic feedback, and external switch integration.
 
 ---
 
