@@ -13,7 +13,7 @@ An accessible adaptive game library designed for individuals using switch access
 Our project, *Switcharoo: Switch Accessible Tablet App*, was awarded 2nd place at the [2025 RESNA Student Design Challenge](https://www.resna.org/Events/2025-RESNA-Conference/2025-Student-Design-Challenge-Winners).
 
 <p align="center">
-  <img src="assets/switchgrouppic.png" alt="Switcharoo team receiving RESNA award" width="500"/>
+  <img src="switchgrouppic.png" alt="Switcharoo team receiving RESNA award" width="500"/>
 </p>
 
 <p align="center">
