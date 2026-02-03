@@ -90,25 +90,12 @@ Then press `i` for iOS, `a` for Android, or `w` for web.
 
 ## 🛠 Tech Stack
 
-**Core Framework:**
-- React Native 0.76.9 with Expo 52
-- TypeScript/JavaScript
-- File-based routing with expo-router
-
-**UI & Styling:**
-- NativeWind (Tailwind CSS for React Native)
-- Custom Fredoka font family
-- Expo Vector Icons
-
-**Accessibility & Input:**
-- expo-haptics for tactile feedback
-- react-native-keyevent for switch input
-- react-native-gesture-handler for touch interactions
-
-**Game Development:**
-- react-native-game-engine for physics
-- @shopify/react-native-skia for graphics
-- react-native-reanimated for animations
+| Category | Technologies |
+|----------|-------------|
+| **Framework** | React Native v0.76, Expo v52, TypeScript |
+| **Styling** | NativeWind (Tailwind CSS), Expo Vector Icons |
+| **Accessibility** | expo-haptics, react-native-keyevent, react-native-gesture-handler |
+| **Games** | react-native-game-engine, @shopify/react-native-skia, react-native-reanimated |****
 
 ---
 
