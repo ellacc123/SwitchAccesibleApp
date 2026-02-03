@@ -1,5 +1,3 @@
-## 🏆 Award Recognition
-
 <table>
   <tr>
     <td width="50%">
