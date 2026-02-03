@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Switcharoo Banner" width="100%"/>
-</p>
+
 
 <h1 align="center">Switcharoo</h1>
 <p align="center">
