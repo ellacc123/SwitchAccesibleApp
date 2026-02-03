@@ -6,7 +6,7 @@
       <img src="switchgrouppic.png" alt="Switcharoo team at RESNA 2025" width="100%"/>
     </td>
     <td width="50%">
-      <h3>🥈 2nd Place at 2025 RESNA Student Design Challenge</h3>
+      <h3> 2nd Place at 2025 RESNA Student Design Challenge</h3>
       <p>Switcharoo was recognized at the <a href="https://www.resna.org/Events/2025-RESNA-Conference/2025-Student-Design-Challenge-Winners">2025 RESNA Conference</a>, the leading conference for assistive technology researchers and engineers. </p>
       <p><strong>→</strong> <a href="Switcharoo-Research-Poster-32x40.pdf">View our research and app interface</a></p>
     </td>
