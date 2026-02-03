@@ -23,7 +23,8 @@ Play is critical for child development but most games aren't designed for childr
 
 ### Design Principles
 
-
+| | |
+|---|---|
 | 🎯 **Developmental** | Games align with learning themes and therapeutic goals |
 | 🧑‍🏫 **Educator-friendly** | Low-cost, effortless tool for caregivers and therapists |
 | ♿ **Accessible-first** | User autonomy, simplicity, and full switch support |
