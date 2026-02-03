@@ -134,7 +134,12 @@ assets/
 
 Built by students at the University of Washington through [HuskyADAPT](https://depts.washington.edu/adaptuw/) (Accessible Design And Play Technology):
 
-**James Tran** · **Arshita Misra** · **Mishti Dhawan** · **Sneha Birru** · **Helen Liu** · **Ella Cao**
+- Ella Cao
+- James Tran
+- Arshita Misra
+- Mishti Dhawan
+- Sneha Birru
+- Helen Liu
 
 ---
 
@@ -147,18 +152,3 @@ We welcome contributions! See something that could be more accessible? Have an i
 3. Commit changes (`git commit -m 'Add amazing feature'`)
 4. Push (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
----
-
-## 📚 Resources
-
-- [Expo Documentation](https://docs.expo.dev/)
-- [React Native Documentation](https://reactnative.dev/)
-- [W3C Switch Access Guidelines](https://www.w3.org/WAI/perspective-videos/switch/)
-- [HuskyADAPT at UW](https://depts.washington.edu/adaptuw/)
-
----
-
-<p align="center">
-  <sub>Built with ♿ accessibility and ❤️ inclusion at the forefront</sub>
-</p>
