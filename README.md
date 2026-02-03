@@ -17,7 +17,7 @@ Our project, *Switcharoo: Switch Accessible Tablet App*, was awarded 2nd place a
 </p>
 
 <p align="center">
-  <a href="assets/Switcharoo-Research-Poster-32x40.pdf">📄 View Our Research Poster</a>
+  <a href="Switcharoo-Research-Poster-32x40.pdf">📄 View Our Research Poster</a>
 </p>
 
 ---
