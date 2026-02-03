@@ -124,4 +124,4 @@ assets/
 
 Built by students at the University of Washington:
 
-Ella Cao, James Tran, Arshita Misra, Mishti Dhawan, Helen Liu, Sneha Birru
+Ella Cao, Helen Liu, Sneha Birru, James Tran, Arshita Misra, Mishti Dhawan
