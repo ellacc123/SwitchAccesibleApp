@@ -8,7 +8,7 @@
     <td width="50%">
       <h3>🥈 2nd Place at 2025 RESNA Student Design Challenge</h3>
       <p>Switcharoo was recognized at the <a href="https://www.resna.org/Events/2025-RESNA-Conference/2025-Student-Design-Challenge-Winners">2025 RESNA Conference</a>. </p>
-      <p><strong>→</strong> <a href="assets/Switcharoo-Research-Poster-32x40.pdf">View our research poster</a></p>
+      <p><strong>→</strong> <a href="Switcharoo-Research-Poster-32x40.pdf">View our research poster</a></p>
     </td>
   </tr>
 </table>
