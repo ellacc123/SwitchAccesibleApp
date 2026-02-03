@@ -95,7 +95,8 @@ Then press `i` for iOS, `a` for Android, or `w` for web.
 | **Framework** | React Native v0.76, Expo v52, TypeScript |
 | **Styling** | NativeWind (Tailwind CSS), Expo Vector Icons |
 | **Accessibility** | expo-haptics, react-native-keyevent, react-native-gesture-handler |
-| **Games** | react-native-game-engine, @shopify/react-native-skia, react-native-reanimated |****
+| **Games** | react-native-game-engine, @shopify/react-native-skia, react-native-reanimated |
+| **Testing** | Jest, jest-expo, physical switch device validation |****
 
 ---
 
