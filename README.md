@@ -132,7 +132,7 @@ assets/
 
 ## 👥 Team
 
-Built by students at the University of Washington through [HuskyADAPT](https://depts.washington.edu/adaptuw/) (Accessible Design And Play Technology):
+Built by students at the University of Washington:
 
 - Ella Cao
 - James Tran
