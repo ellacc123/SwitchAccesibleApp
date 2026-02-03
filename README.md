@@ -28,19 +28,16 @@ Switcharoo is an educational game library built from the ground up for switch ac
     <td align="center" width="33%">
       <img src="assets/pop-the-balloon.png" alt="Pop the Balloon" width="200"/><br/>
       <strong>Pop the Balloon</strong><br/>
-      <em>Cause & Effect</em><br/>
       <sub>Tap to pop balloons with animated feedback</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/stacking-blocks.png" alt="Stacking Blocks" width="200"/><br/>
       <strong>Stacking Blocks</strong><br/>
-      <em>Classification</em><br/>
       <sub>Sort shapes with high-contrast mode support </sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/sorting-game.png" alt="Sorting Game" width="200"/><br/>
       <strong>Sorting Game</strong><br/>
-      <em>Timing</em><br/>
       <sub>Physics-based stacking with haptic feedback</sub>
     </td>
   </tr>
