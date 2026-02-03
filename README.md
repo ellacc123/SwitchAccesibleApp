@@ -130,8 +130,8 @@ Built by students at the University of Washington:
 - James Tran
 - Arshita Misra
 - Mishti Dhawan
-- Sneha Birru
 - Helen Liu
+- Sneha Birru
 
 ---
 
