@@ -122,6 +122,4 @@ assets/
 
 ## Team
 
-Built by students at the University of Washington:
-
 Ella Cao, Helen Liu, Sneha Birru, James Tran, Arshita Misra, Mishti Dhawan
