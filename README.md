@@ -46,6 +46,12 @@ Switcharoo is an educational game library built from the ground up for switch ac
 Coming soon: Treasure Hunt, Crossy Roads, Music Play
 
 ---
+## Dashboard Design
+
+<img width="362" height="659" alt="Screenshot 2026-07-27 at 2 05 05 AM" src="https://github.com/user-attachments/assets/54c47a7b-413a-494b-a467-48fb9190193f" />
+
+
+---
 
 ## Features
 
