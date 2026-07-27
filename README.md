@@ -1,3 +1,4 @@
+
 <table>
   <tr>
     <td width="50%">
@@ -11,6 +12,7 @@
   </tr>
 </table>
 
+<img width="865" height="676" alt="Screenshot 2026-07-27 at 2 56 45 AM" src="https://github.com/user-attachments/assets/4814d7b9-bab3-4f2f-bbee-c0986df13c36" />
 ---
 
 ## The Problem
